@@ -59,5 +59,8 @@ Step 7: Finalize and Export
 
 # Output
 
+[EXP.1 (7).pdf](https://github.com/user-attachments/files/23020804/EXP.1.7.pdf)
 
 # Result
+
+hence the given questions have been verified using chat gpt.
